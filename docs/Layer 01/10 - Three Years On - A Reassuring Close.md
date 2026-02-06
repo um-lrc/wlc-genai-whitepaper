@@ -1,3 +1,5 @@
+# Three Years On - A Reassuring Close
+
 Three years into widespread generative AI use, the most important lesson may be this: language education has not been rendered obsolete, nor has its purpose fundamentally changed. What has changed is the clarity with which we are asked to name what matters.
 
 Generative AI can produce language quickly and fluently, but it cannot replace the experience of learning to mean something in another language. It cannot stand in for misunderstanding and repair, for negotiating tone and context, or for the slow confidence that comes from sustained use. These are not incidental features of language learning; they are its core.

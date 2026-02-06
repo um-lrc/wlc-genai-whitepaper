@@ -1,3 +1,5 @@
+# Reframing the Core Pedagogical Question
+
 In the early stages of the generative AI conversation, much of the focus naturally fell on control: how to prevent misuse, how to enforce policies, how to maintain academic integrity. Those concerns are understandable, and they emerged in response to real uncertainty. Three years on, however, many instructors have found that framing the issue primarily in terms of prevention is both exhausting and incomplete.
 
 A more productive shift is to move away from the question _“How do I stop students from using AI?”_ and toward a different one: **“What is this activity designed to develop?”** This reframing does not ignore the realities of AI use. Instead, it places them in a broader pedagogical context, one that centers learning goals rather than tools.

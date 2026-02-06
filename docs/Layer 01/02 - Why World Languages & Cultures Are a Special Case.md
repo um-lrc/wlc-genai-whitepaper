@@ -1,3 +1,5 @@
+# Why World Languages & Cultures Are a Special Case
+
 Generative AI has touched nearly every discipline in higher education, but it hasn’t done so evenly. In World Languages & Cultures, the changes feel especially close to the core of what we do, not because language instructors are wary of technology, but because language learning works differently from many other kinds of academic learning.
 
 Learning a language is not mainly about producing correct sentences. It’s about building internal capacities: understanding meaning in real time, choosing words under pressure, noticing when communication breaks down, and finding ways to repair it. These abilities develop slowly, through use, feedback, and reflection. They don’t arrive all at once, and they don’t always show up cleanly in a single assignment.

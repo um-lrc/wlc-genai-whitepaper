@@ -1,3 +1,5 @@
+# Pedagogical Approaches Three Years On
+
 One of the most helpful realizations to emerge over the past few years is that there is no single “right” way to respond to generative AI in language teaching. Courses differ. Learning goals differ. Students differ. So it makes sense that pedagogical responses differ as well.
 
 Rather than framing AI as something to either embrace or prohibit wholesale, many instructors have begun to think in terms of **how** and **where** particular tools align (or fail to align) with the goals of a given activity. This approach shifts the focus from positions to practices, and from ideology to fit.

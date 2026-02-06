@@ -1,3 +1,5 @@
+# Pathways for Instructors
+
 ## GenAI Use and Non-GenAI Design Pivots, Side by Side
 
 Faculty are encountering generative AI from different starting points. Some are interested in experimenting with AI directly. Others do not plan to use AI, but still need to respond to its presence in students’ academic lives. In practice, many instructors move between these positions depending on the course, the activity, and the learning goals involved.

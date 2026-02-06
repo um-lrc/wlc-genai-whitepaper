@@ -1,3 +1,5 @@
+# Local Context and Ongoing Work
+
 ## Situating this work within our program and institution
 
 This document is part of a broader, ongoing effort to support thoughtful teaching and learning in World Languages & Cultures in the context of generative AI. It does not stand alone, and it is not the final word. Rather, it reflects work already underway and invites continued conversation and experimentation.

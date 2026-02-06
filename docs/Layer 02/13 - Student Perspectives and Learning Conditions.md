@@ -1,3 +1,5 @@
+# Student Perspectives and Learning Conditions
+
 ## Understanding context without lowering standards
 
 Any discussion of generative AI in teaching inevitably intersects with the conditions under which students are learning. Acknowledging those conditions does not mean lowering expectations or shifting responsibility away from students. It means understanding the environment in which instructional choices operate, and how students interpret and respond to them.

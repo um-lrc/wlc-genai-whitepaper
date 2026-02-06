@@ -1,3 +1,5 @@
+# On Cognitive Offloading, Deskilling, and Language Learning
+
 ## *What generative AI changes, and what it does not*
 
 One of the most active debates surrounding generative AI in education concerns **cognitive offloading**: the use of external tools to reduce the mental effort required to complete a task. Offloading itself is not new. Writing, calculators, dictionaries, and search engines have long functioned as cognitive supports. What is new is the **scope, fluency, and apparent completeness** of generative AI, which can now perform complex linguistic and analytical tasks end-to-end.

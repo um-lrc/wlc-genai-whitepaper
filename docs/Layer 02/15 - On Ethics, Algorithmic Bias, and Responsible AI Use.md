@@ -1,4 +1,4 @@
-## On Ethics, Algorithmic Bias, and Responsible AI Use
+# On Ethics, Algorithmic Bias, and Responsible AI Use
 
 Any serious engagement with generative AI in education requires acknowledging the broader ethical and structural concerns that surround these technologies. These issues do not resolve themselves through pedagogical choices alone, but they do inform the environment in which instructors and students work. Understanding them can help language educators make more informed decisions about when, how, and whether to incorporate AI tools into their teaching.
 

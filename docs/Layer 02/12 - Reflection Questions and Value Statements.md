@@ -1,3 +1,5 @@
+# Reflection Questions and Value Statements
+
 ## Bridging Theory and Practice
 
 The discussions around generative AI in language education often move quickly to tools, policies, or positions. While those conversations are necessary, they are most productive when grounded in a shared understanding of **what we value in language learning** and **what kinds of development we are trying to support**.

@@ -1,4 +1,4 @@
-## On Climate, Environment, and GenAI's Potential Impact
+# On Climate, Environment, and GenAI's Potential Impact
 
 Environmental concerns around generative AI have become increasingly visible in public discourse, often framed in urgent or alarming terms. These concerns are not fabricated, but they are also not straightforward. The data on energy and water use associated with AI systems is incomplete, unevenly reported, and difficult to contextualize in ways that support informed decision-making. For language educators working within institutions that have made public commitments to environmental sustainability, these questions can feel both pressing and unresolvable.
 

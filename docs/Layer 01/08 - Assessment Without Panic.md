@@ -1,3 +1,5 @@
+# Assessment Without Panic
+
 Few aspects of generative AI have caused as much anxiety as assessment. When instructors are responsible for assigning grades, certifying progress, and upholding standards, it’s natural to worry about whether student work still reflects student learning. In language courses, those concerns can feel especially sharp, since assessment often relies on visible performances (writing samples, oral tasks, and other products) that AI can now generate with ease.
 
 At the same time, many instructors have already discovered that detection-based approaches offer little relief. AI detection tools are unreliable, uneven across languages, and particularly ill-suited to second-language writing. They risk false positives, especially for multilingual and heritage speakers, and they can create a climate of suspicion that discourages risk-taking. For language learners, who already operate with vulnerability and uncertainty, that chilling effect can undermine participation and growth.

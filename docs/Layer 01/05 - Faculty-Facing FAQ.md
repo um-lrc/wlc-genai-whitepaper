@@ -1,3 +1,5 @@
+# Faculty-Facing FAQ
+
 ### **Is choosing not to use AI anti-innovation?**
 
 No. Deciding not to use AI in a particular activity can be a thoughtful pedagogical choice, especially when the goal is skill formation, internalization, or real-time interaction. Innovation in teaching has always included knowing when _not_ to introduce a tool. What matters is alignment with learning goals, not signaling technological enthusiasm.

@@ -1,3 +1,5 @@
+# Where Generative AI May Matter Less Than We Fear
+
 Not every aspect of language teaching is equally disrupted by generative AI. In some areas, the presence of these tools has less impact on learning than initial reactions might suggest. Recognizing this can help instructors focus their attention where it matters most, rather than feeling pressure to overhaul everything at once.
 
 One such area involves low-formative, high-throughput tasks: activities designed primarily for practice, exposure, or completion rather than deep engagement. Mechanical exercises, decontextualized drills, or assignments that prioritize speed and correctness over interpretation have long played a limited role in learning. When students use AI to complete this kind of work, the issue is often less about the tool itself and more about what the task was designed to accomplish. In many cases, AI simply makes visible weaknesses that already existed in the activity’s design.

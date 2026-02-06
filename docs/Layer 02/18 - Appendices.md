@@ -1,3 +1,5 @@
+# Appendices
+
 The materials in this section are provided as optional resources. They are intended to support instructors who would like concrete examples, language, or design patterns to adapt for their own contexts.
 
 None of the materials below are required or exhaustive. They are meant to be mixed, modified, and selectively used based on course goals, level, and instructional judgment.

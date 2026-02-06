@@ -1,3 +1,5 @@
+# Classroom Norms and Transparency
+
 As generative AI becomes more visible in students’ academic lives, clarity matters more than ever. Many of the frustrations instructors report (confusion, mismatched expectations, uncomfortable conversations) stem less from AI itself than from uncertainty about when and why its use is appropriate. Clear, transparent norms can go a long way toward easing that tension.
 
 One helpful shift is to frame expectations not as rules to be enforced, but as **learning commitments**. Instead of focusing on what students are or are not allowed to do, instructors can explain what a particular activity is meant to develop, and how certain choices support or undermine that goal. This approach treats students as partners in the learning process rather than as potential violators.

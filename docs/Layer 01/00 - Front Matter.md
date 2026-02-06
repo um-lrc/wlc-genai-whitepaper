@@ -1,3 +1,5 @@
+# Front Matter
+
 This document is intended for faculty teaching in World Languages & Cultures (lecturers, tenure-track faculty, GSIs, and program coordinators) who are navigating the ongoing effects of generative AI on teaching, learning, and assessment. It assumes familiarity with the broad contours of recent conversations about AI in higher education and focuses instead on discipline-specific questions that have become clearer with time.
 
 In the first months following the public release of large-scale generative AI tools, much of the discussion in higher education was necessarily exploratory. Instructors and institutions alike were trying to understand what these systems were, what they could do, and how quickly they were changing long-standing academic practices. That initial period involved uncertainty, experimentation, and, at times, understandable anxiety.

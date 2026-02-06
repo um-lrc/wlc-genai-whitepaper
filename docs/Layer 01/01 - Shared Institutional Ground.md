@@ -1,3 +1,5 @@
+# Shared Institutional Ground
+
 Several points of common ground have already emerged across the university. Over the past several years, faculty, staff, and administrators have spent considerable time grappling with what generative AI means for teaching and learning. While perspectives and practices continue to evolve, several broad understandings are now widely shared.
 
 First, generative AI is part of the academic landscape. It is not a hypothetical future development, nor something that can be meaningfully addressed through avoidance alone. Students encounter these tools in many contexts, both inside and outside the university, and they will continue to do so. The question is no longer whether AI exists, but how instructors and programs respond to its presence in ways that support learning.

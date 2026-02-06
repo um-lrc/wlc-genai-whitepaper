@@ -1,3 +1,5 @@
+# What This Discipline Cannot Afford to Lose
+
 As generative AI becomes more visible in academic life, it’s tempting to focus on what needs to be added: new policies, new tools, new rules. For World Languages & Cultures, a more useful starting point is often the opposite question: **what parts of language learning are both most essential and most vulnerable under these conditions?**
 
 One of those is foundational skill formation. In the early and intermediate stages, students are building internal structures: sound systems, grammatical patterns, and habits of expression. This work is slow and uneven by nature. Students repeat mistakes, hesitate, and struggle to say what they mean, not because they aren't trying, but because language habits take time to develop. These moments of difficulty are not failures; they are the work itself. When external tools take over too much of this labor too early, students may appear more fluent than they actually are, while missing chances to build the internal resources they will need later.
