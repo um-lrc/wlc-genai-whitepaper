@@ -4,9 +4,10 @@
     return;
   }
 
+  const explicitPath = container.dataset.md;
   const currentPath = window.location.pathname.split('/').pop() || 'index.html';
   const baseName = currentPath.replace(/\.html$/, '');
-  const mdPath = `docs/${baseName}.md`;
+  const mdPath = explicitPath || `docs/${baseName}.md`;
 
   const wrapTables = () => {
     const tables = container.querySelectorAll('table');

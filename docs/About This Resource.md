@@ -1,0 +1,34 @@
+## How to Navigate the Content
+
+This site is organized in **two complementary layers** that can be read together or independently.
+
+**Layer 1** provides shared conceptual grounding: how generative AI intersects with language learning, assessment, rigor, and professional judgment in World Languages & Cultures. These sections establish common terms, values, and framing.
+
+**Layer 2** translates that framing into practice: concrete pathways, examples, reflection tools, and local context. These sections are designed to be modular, skimmable, and adaptable to different teaching roles and course types.
+
+You do not need to read this site from start to finish. Many instructors begin with a single section that matches their immediate questions or teaching context.
+
+---
+
+## Overview of Sections
+
+| **Layer 1: Conceptual Orientation** | **Layer 2: Pathways, Practice, & Context** |
+|-----------------------------------|--------------------------------------------|
+| **I. Shared Institutional Ground**<br>Establishes what has already been decided institutionally, clarifies faculty autonomy, and sets boundaries for what this resource does and does not attempt to do. | **XI. Pathways for Instructors**<br>Offers parallel pathways for instructors who are curious about using GenAI and those who do not plan to use it, with discipline- and level-specific examples and design pivots. |
+| **II. Why World Languages & Cultures Are a Special Case**<br>Explains why language learning differs from other disciplines, particularly around internalization, interaction, and development over time. | **XII. Reflection Questions & Value Statements**<br>Provides prompts and value statements for individual reflection, department discussion, or workshop use, bridging theory and day-to-day teaching decisions. |
+| **III. What This Discipline Cannot Afford to Lose**<br>Names fragile but essential aspects of language education, including skill formation, voice, interaction, and judgment. | **XIII. Student Perspectives & Learning Conditions**<br>Situates GenAI within student realities, distinguishing academic rigor from logistical rigor and highlighting opportunities to focus on fewer, higher-value assignments. |
+| **IV. Where Generative AI May Matter Less Than We Fear**<br>Identifies areas where learning goals already require human judgment, interpretation, or experience, reducing the need for reactive responses. | **XIV. Local Context & Ongoing Work**<br>Describes workshops, tools under exploration, and opportunities for conversation, while emphasizing that participation is optional and faculty autonomy is preserved. |
+| **V. Reframing the Core Pedagogical Question**<br>Shifts focus from preventing AI use to aligning activities with learning goals and forms of development. | **Appendices (Optional / Modular)**<br>Provides sample syllabus language, assignment and assessment patterns, institutional alignment, and selected references for instructors who want concrete resources. |
+| **VI. Pedagogical Approaches Three Years On**<br>Legitimizes a range of thoughtful responses to GenAI, including exploratory use, constrained use, and purposeful non-use. | |
+| **VII. Assessment Without Panic**<br>Addresses assessment directly, emphasizing development over time, professional judgment, and the limits of surveillance-based approaches. | |
+| **VIII. Classroom Norms and Transparency**<br>Focuses on communicating expectations clearly to students and framing norms around learning rather than compliance. | |
+| **IX. Faculty-Facing FAQ**<br>Offers concise responses to common faculty questions and concerns, designed for quick reassurance and reference. | |
+| **X. Three Years On: A Reassuring Close**<br>Reaffirms the enduring purposes of language education and the role of faculty judgment in a changing instructional landscape. | |
+
+---
+
+## How the Layers Work Together
+
+- **Layer 1** helps instructors understand *why* certain responses to GenAI make sense in language education.
+- **Layer 2** helps instructors decide *what to do* in their own courses and contexts.
+- Together, they support **plural, principled, and pedagogically grounded choices**, not a single mandated approach.

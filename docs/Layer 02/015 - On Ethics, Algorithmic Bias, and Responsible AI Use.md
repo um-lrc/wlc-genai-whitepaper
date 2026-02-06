@@ -1,0 +1,50 @@
+## On Ethics, Algorithmic Bias, and Responsible AI Use
+
+Any serious engagement with generative AI in education requires acknowledging the broader ethical and structural concerns that surround these technologies. These issues do not resolve themselves through pedagogical choices alone, but they do inform the environment in which instructors and students work. Understanding them can help language educators make more informed decisions about when, how, and whether to incorporate AI tools into their teaching.
+
+### Algorithmic Bias and Representation
+
+Large language models are trained on massive datasets drawn primarily from the internet. This training process encodes existing patterns, including biases related to race, gender, geography, and language. The models reflect the worldviews, stereotypes, and power structures embedded in their source material. They do this not because they hold beliefs, but because they reproduce statistical patterns found in text.
+
+For language educators, these concerns are not abstract. AI-generated content may reinforce stereotypes about cultures, regions, or speakers. It may produce language that is grammatically fluent but culturally tone-deaf, or that reflects dominant norms while marginalizing minoritized perspectives. Students who rely on AI for cultural insight or nuanced communication may receive output that is technically accurate but contextually inappropriate or reductive.
+
+These biases are compounded by issues of representation in the training data itself. Estimates suggest that **60% or more of web traffic used to train major LLMs is in English**, making English vastly overrepresented relative to its proportion of global speakers. Other widely spoken languages (Mandarin, Spanish, Arabic, Hindi) are present but underrepresented. Smaller languages, regional varieties, and endangered languages are often nearly invisible.
+
+This skew has direct consequences for language learning. Models trained predominantly on English tend to perform better in English, both in terms of fluency and cultural appropriateness. For less-represented languages, outputs may be less reliable, more prone to error, or limited to formal registers. For minoritized or endangered languages, the tools may be essentially nonfunctional. This means that students learning widely taught languages may experience AI as helpful, while those studying less commonly taught languages encounter tools that offer little meaningful support or, in some cases, misinformation.
+
+Heritage speakers and multilingual students face additional risks. AI detection tools, already unreliable, are especially prone to false positives when evaluating non-native or heritage language use. Students whose writing reflects code-switching, transfer effects, or non-standard varieties may be flagged as using AI simply because their language does not match monolingual norms. This creates equity concerns that go beyond pedagogy and into the territory of fairness and access.
+
+**Image, art, and video generators make these representational biases particularly visible.** When asked to generate images of "a doctor," "a CEO," or "a family," these tools often default to narrow stereotypes that reflect dominant cultural assumptions: white or light-skinned figures in positions of authority, heteronormative family structures, Western settings and dress. Requests for images representing specific cultures or regions may produce visual clichés, exoticized depictions, or historically inaccurate representations that flatten complex identities into stereotypes.
+
+For language and culture courses, where visual representation matters deeply, these tools can be especially problematic. A student using AI to generate images for a presentation on Mexican culture might receive output filled with sombreros, piñatas, and other reductive symbols. A request for images of "African people" might produce a homogenized vision that erases regional, ethnic, and cultural diversity. These outputs do not reflect reality; they reflect the biases embedded in the training data and the assumptions encoded in how images were labeled and categorized.
+
+The visual nature of these biases makes them harder to ignore than textual ones. While stereotyping in text-based AI can be subtle or require careful reading to detect, visual stereotypes are immediate and unmistakable. This visibility can be pedagogically useful if instructors frame it as an opportunity for critical analysis. But it also means that uncritical use of image generators risks reinforcing exactly the kinds of cultural oversimplification that language and culture courses are meant to challenge.
+
+### Labor and the Hidden Costs of AI Development
+
+Behind the polished interfaces of generative AI lie labor practices that are rarely discussed in educational contexts. Training these models to avoid generating harmful content (child sexual abuse material, extreme violence, hate speech) requires human workers to review and label vast quantities of disturbing material. Much of this work has been outsourced to low-wage markets, where content moderators work under difficult conditions for minimal pay.
+
+Reports from Kenya, the Philippines, and other regions have documented the psychological toll of this work. Moderators describe symptoms consistent with trauma: intrusive thoughts, sleep disturbances, and lasting distress. These workers are often employed on short-term contracts with limited mental health support, despite being exposed to some of the most harmful content on the internet. The systems that allow students to use AI safely are built, in part, on exploitative labor arrangements that concentrate harm among the most economically vulnerable workers.
+
+This is not unique to AI. Many technologies rely on invisible or undervalued labor. But it is worth naming. When instructors choose to incorporate AI tools, they are participating, however indirectly, in systems shaped by these practices. Awareness does not require abandoning the technology, but it does invite reflection on the conditions under which it is produced and the unequal distribution of costs and benefits.
+
+### Data Scraping, Privacy, and Copyright
+
+The datasets used to train large language models include scraped web content: news articles, blog posts, social media, forums, books, academic papers, and more. In many cases, this material was collected without explicit permission from creators, raising significant legal and ethical questions about consent, ownership, and fair use.
+
+For writers, artists, journalists, and scholars, this practice can feel like appropriation. Work created for specific purposes (published under particular licenses, shared in certain contexts) has been absorbed into training data and used to generate new content that may compete with or displace the original. Copyright lawsuits are ongoing in multiple jurisdictions, and the legal landscape remains unsettled.
+
+Privacy concerns are equally serious. Personal information, forum discussions, social media posts, and other user-generated content have been included in training data, sometimes without meaningful anonymization. Individuals may find their words, experiences, or identities reflected in AI outputs without their knowledge or consent. For students and instructors, this raises questions about what happens when we interact with these tools: where does that data go, how is it stored, and who has access to it?
+
+Educational institutions are beginning to negotiate terms of use with AI vendors, seeking assurances that student data will not be used for further training or sold to third parties. But these protections are contractual and vary by platform. In the absence of strong regulation, users (including students) are left to navigate privacy risks that are not always transparent or easy to assess.
+
+### Implications for Language Educators
+
+These ethical concerns do not resolve into simple guidelines, but they do suggest several considerations for instructors navigating AI in their courses:
+
+- **Transparency with students.** If AI tools are required or encouraged, students have a right to know how their data is used, what biases may be present, and what limitations the tools carry. This is especially important for students learning less commonly taught languages or those from communities historically marginalized in technological development.
+- **Critical engagement, not uncritical adoption.** When AI is used in the classroom, treating it as an object of critique (rather than just a productivity tool) can help students develop literacy around algorithmic systems. Asking students to identify bias, evaluate outputs, or reflect on what the tools can and cannot do builds awareness of the systems shaping their linguistic environments.
+- **Equity and access.** Blanket policies that assume equal access to AI tools or equal performance across languages risk deepening existing inequities. Instructors should consider how language representation, tool reliability, and student resources shape the experiences of different learners.
+- **Awareness without paralysis.** These ethical concerns are real, but they do not require total abstention from AI tools any more than concerns about labor practices in the tech industry require abandoning email. The goal is informed decision-making: understanding the conditions under which these tools are built and the tradeoffs involved in using them.
+
+Language educators are not responsible for solving the structural problems embedded in AI development. But they are well-positioned to model thoughtful, critical engagement with technology. This means treating tools as provisional, contextual, and worthy of scrutiny rather than as neutral or inevitable. In a discipline concerned with meaning, culture, power, and representation, that kind of critical stance is not peripheral. It is central.
