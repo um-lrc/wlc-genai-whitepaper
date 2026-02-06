@@ -1,4 +1,4 @@
-## How to Navigate the Content
+# How to Navigate the Content
 
 This site is organized in **two complementary layers** that can be read together or independently.
 
