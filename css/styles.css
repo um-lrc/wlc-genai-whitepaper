@@ -122,8 +122,7 @@ body {
 .main-content {
     margin-left: var(--sidebar-width);
     padding: var(--space-xl) var(--space-xl) var(--space-xl) 10%;
-    max-width: 1200px;
-    width: 100%;
+    width: calc(100% - var(--sidebar-width));
 
     /* Background Splash */
     background-image: linear-gradient(rgba(248, 249, 250, 0), rgba(248, 249, 250, 0.75)), url('../images/AdobeStock_1715768785.jpeg');
@@ -273,6 +272,7 @@ tr:nth-child(even) {
     .main-content {
         margin-left: 0;
         padding: var(--space-lg) var(--space-md);
+        width: 100%;
     }
 
     .content-wrapper {
