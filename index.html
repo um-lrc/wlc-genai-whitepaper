@@ -48,69 +48,7 @@
 
     <main class="main-content">
         <div class="content-wrapper">
-            <h1>About This Resource</h1>
-            <h2>How to Navigate the Content</h2>
-<p>This site is organized in <strong>two complementary layers</strong> that can be read together or independently.</p>
-<p><strong>Layer 1</strong> provides shared conceptual grounding: how generative AI intersects with language learning, assessment, rigor, and professional judgment in World Languages & Cultures. These sections establish common terms, values, and framing.</p>
-<p><strong>Layer 2</strong> translates that framing into practice: concrete pathways, examples, reflection tools, and local context. These sections are designed to be modular, skimmable, and adaptable to different teaching roles and course types.</p>
-<p>You do not need to read this site from start to finish. Many instructors begin with a single section that matches their immediate questions or teaching context.</p>
-<hr>
-<h2>Overview of Sections</h2>
-<div class="table-container"><table>
-<thead><tr>
-<th><strong>Layer 1: Conceptual Orientation</strong></th>
-<th><strong>Layer 2: Pathways, Practice, & Context</strong></th>
-</tr></thead>
-<tbody>
-<tr>
-<td><a href="shared-institutional-ground.html"><strong>I. Shared Institutional Ground</strong></a><br>Establishes what has already been decided institutionally, clarifies faculty autonomy, and sets boundaries for what this resource does and does not attempt to do.</td>
-<td><a href="pathways-for-instructors.html"><strong>XI. Pathways for Instructors</strong></a><br>Offers parallel pathways for instructors who are curious about using GenAI and those who do not plan to use it, with discipline- and level-specific examples and design pivots.</td>
-</tr>
-<tr>
-<td><a href="why-world-languages-cultures-are-a-special-case.html"><strong>II. Why World Languages & Cultures Are a Special Case</strong></a><br>Explains why language learning differs from other disciplines, particularly around internalization, interaction, and development over time.</td>
-<td><a href="reflection-questions-and-value-statements.html"><strong>XII. Reflection Questions & Value Statements</strong></a><br>Provides prompts and value statements for individual reflection, department discussion, or workshop use, bridging theory and day-to-day teaching decisions.</td>
-</tr>
-<tr>
-<td><a href="what-this-discipline-cannot-afford-to-lose.html"><strong>III. What This Discipline Cannot Afford to Lose</strong></a><br>Names fragile but essential aspects of language education, including skill formation, voice, interaction, and judgment.</td>
-<td><a href="student-perspectives-and-learning-conditions.html"><strong>XIII. Student Perspectives & Learning Conditions</strong></a><br>Situates GenAI within student realities, distinguishing academic rigor from logistical rigor and highlighting opportunities to focus on fewer, higher-value assignments.</td>
-</tr>
-<tr>
-<td><a href="where-generative-ai-may-matter-less-than-we-fear.html"><strong>IV. Where Generative AI May Matter Less Than We Fear</strong></a><br>Identifies areas where learning goals already require human judgment, interpretation, or experience, reducing the need for reactive responses.</td>
-<td><a href="local-context-and-ongoing-work.html"><strong>XIV. Local Context & Ongoing Work</strong></a><br>Describes workshops, tools under exploration, and opportunities for conversation, while emphasizing that participation is optional and faculty autonomy is preserved.</td>
-</tr>
-<tr>
-<td><a href="reframing-the-core-pedagogical-question.html"><strong>V. Reframing the Core Pedagogical Question</strong></a><br>Shifts focus from preventing AI use to aligning activities with learning goals and forms of development.</td>
-<td><a href="appendices.html"><strong>Appendices (Optional / Modular)</strong></a><br>Provides sample syllabus language, assignment and assessment patterns, institutional alignment, and selected references for instructors who want concrete resources.</td>
-</tr>
-<tr>
-<td><a href="pedagogical-approaches-three-years-on.html"><strong>VI. Pedagogical Approaches Three Years On</strong></a><br>Legitimizes a range of thoughtful responses to GenAI, including exploratory use, constrained use, and purposeful non-use.</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="assessment-without-panic.html"><strong>VII. Assessment Without Panic</strong></a><br>Addresses assessment directly, emphasizing development over time, professional judgment, and the limits of surveillance-based approaches.</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="classroom-norms-and-transparency.html"><strong>VIII. Classroom Norms and Transparency</strong></a><br>Focuses on communicating expectations clearly to students and framing norms around learning rather than compliance.</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="faculty-facing-faq.html"><strong>IX. Faculty-Facing FAQ</strong></a><br>Offers concise responses to common faculty questions and concerns, designed for quick reassurance and reference.</td>
-<td></td>
-</tr>
-<tr>
-<td><a href="three-years-on-a-reassuring-close.html"><strong>X. Three Years On: A Reassuring Close</strong></a><br>Reaffirms the enduring purposes of language education and the role of faculty judgment in a changing instructional landscape.</td>
-<td></td>
-</tr>
-</tbody>
-</table></div>
-<hr>
-<h2>How the Layers Work Together</h2>
-<ul>
-<li><strong>Layer 1</strong> helps instructors understand <em>why</em> certain responses to GenAI make sense in language education.</li>
-<li><strong>Layer 2</strong> helps instructors decide <em>what to do</em> in their own courses and contexts.</li>
-<li>Together, they support <strong>plural, principled, and pedagogically grounded choices</strong>, not a single mandated approach.</li>
-</ul>
+            <div id="markdown-content" class="markdown-content"></div>
         </div>
         
         <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid #eee; color: #666; font-size: 0.9em;">
@@ -118,6 +56,8 @@
         </footer>
     </main>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/markdown-loader.js"></script>
     <script>
         // Simple active state highlighting
         const currentPath = window.location.pathname.split('/').pop() || 'index.html';
