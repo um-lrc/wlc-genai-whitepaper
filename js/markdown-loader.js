@@ -4,10 +4,14 @@
     return;
   }
 
-  const explicitPath = container.dataset.md;
-  const currentPath = window.location.pathname.split('/').pop() || 'index.html';
-  const baseName = currentPath.replace(/\.html$/, '');
-  const mdPath = explicitPath || `docs/${baseName}.md`;
+  const mdPath = container.dataset.md;
+  if (!mdPath) {
+    container.innerHTML = `
+      <h1>Content unavailable</h1>
+      <p>Missing <code>data-md</code> attribute for this page.</p>
+    `;
+    return;
+  }
 
   const wrapTables = () => {
     const tables = container.querySelectorAll('table');
