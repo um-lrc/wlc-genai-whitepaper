@@ -50,3 +50,18 @@ Human societies make these kinds of trade-offs constantly. We could point to air
 The goal here is not to prescribe a single correct answer or to sort people into categories of environmental responsibility. It is to encourage informed reflection: to make visible the costs that are often hidden, to invite consideration of trade-offs, and to support decision-making that is deliberate rather than inadvertent. Instructors who choose to use AI in their teaching are not thereby dismissing environmental concerns, and those who choose not to are not necessarily making that choice primarily on environmental grounds. What matters is that the choice is made thoughtfully, with awareness of what is at stake.
 
 In the end, the question is not whether generative AI has environmental impacts (it does), but whether those impacts are justified by the purposes for which it is used. That is a question each instructor will answer differently, depending on their learning goals, their values, and their sense of what kinds of trade-offs are acceptable in their teaching. What matters is that the question is asked, and that the answers are arrived at thoughtfully rather than by default.
+
+---
+### Bibliography
+
+Elsworth, C., Huang, K., Patterson, D., Schneider, I., Sedivy, R., Goodman, S., ... & Manyika, J. (2025). Measuring the environmental impact of delivering AI at Google Scale. _arXiv preprint arXiv:2508.15734_.
+
+Emma Strubell, Ananya Ganesh, and Andrew McCallum. (2019). [Energy and Policy Considerations for Deep Learning in NLP](https://aclanthology.org/P19-1355/). In _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics_, pages 3645–3650, Florence, Italy. Association for Computational Linguistics.
+
+Everman, Brad & Villwock, Trevor & Chen, Dayuan & Soto, Noe & Zhang, Oliver & Zong, Ziliang. (2023). Evaluating the Carbon Impact of Large Language Models at the Inference Stage. 150-157. 10.1109/IPCCC59175.2023.10253886. 
+
+Li, P., Yang, J., Islam, M. A., & Ren, S. (2025). Making ai less' thirsty'. _Communications of the ACM_, _68_(7), 54-61.
+
+Lindwall, C. (2025, September 29). _The Ai Boom is stressing the grid—but it doesn’t have to be this way_. The AI Boom Is Stressing the Grid—but It Doesn’t Have to Be This Way. https://www.nrdc.org/stories/ai-boom-stressing-grid-it-doesnt-have-be-way
+
+van Uffelen, N., Lauwaert, L., Coeckelbergh, M., & Kudina, O. (2024). Towards an Environmental Ethics of Artificial Intelligence. arXiv preprint arXiv:2501.10390.
