@@ -32,3 +32,17 @@ You do not need to read this site from start to finish. Many instructors begin w
 - **Layer 1** helps instructors understand *why* certain responses to GenAI make sense in language education.
 - **Layer 2** helps instructors decide *what to do* in their own courses and contexts.
 - Together, they support **plural, principled, and pedagogically grounded choices**, not a single mandated approach.
+
+---
+
+## A Note on How This Resource Was Made
+
+This resource was developed with the assistance of generative AI, primarily Claude (Anthropic). That choice was deliberate, and given the subject matter, it seemed worth explaining rather than leaving implicit.
+
+The process worked roughly like this: sections were drafted and revised through extended, iterative conversation with the AI, with a human author providing the institutional knowledge, pedagogical framing, source material, and editorial direction at every stage. Empirical claims, particularly those in sections touching on research findings, were checked against peer-reviewed academic literature using a separate AI-assisted literature search tool. Where that review identified gaps, overgeneralizations, or unsupported assertions, the text was revised accordingly.
+
+The AI contributed fluency and organization; the human author contributed judgment, specificity, and accountability. All final decisions about content, framing, and emphasis were made by a person.
+
+We recognize the irony of using generative AI to write a guide that asks faculty to think carefully about generative AI. We think that is a reasonable choice rather than a contradiction. A resource that modeled avoidance would be less credible than one that models the kind of purposeful use it encourages. Readers are welcome to reach their own conclusions about that.
+
+Questions about this resource or its development process can be directed to the [Language Resource Center](https://lsa.umich.edu/lrc).
