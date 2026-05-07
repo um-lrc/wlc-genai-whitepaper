@@ -76,10 +76,31 @@ For "Decomposition needed" cases, draft 1-3 concrete atomic changes that operati
 > - X citation additions
 > - Y wording adjustments
 > - Z other (acknowledgments, claim softenings, bibliography fixes)
-> 
-> Each will need its own decision. I'll verify each citation against Consensus before showing it. Ready to start?"
+>
+> Each will need its own decision. Next I'll show you the full list of citations I'll be looking for so you can add any PDFs to `/sources/` before verification starts."
 
 This preview gives the user a chance to ask for adjustments to the approach (skip a category, batch differently, etc.) before sinking time into individual decisions.
+
+### Step 2.5: Surface Citation List for Sources Population
+
+Before starting verification, show the user every citation that a citation-addition change will need — and check which ones are already in `/sources/`. This lets them batch-download PDFs in one go rather than being interrupted mid-workflow. Full-text verification is always stronger than Consensus abstract-only, and it's much easier to gather papers before the loop starts than to pause and restart later.
+
+From the decomposed atomic changes, collect every citation-adding change. For each citation, derive its expected filename prefix using the `firstauthor_year` convention: lowercase first author surname, underscore, four-digit year. For example: "Bjork & Bjork (2011)" → `bjork_2011`, "Flower & Hayes (1981)" → `flower_1981`, "Saito et al. (2017)" → `saito_2017`.
+
+Check the `/sources/` folder right now (using bash `ls` or Glob) and compare against the list. Mark each citation:
+- ✅ already covered — a file starting with that prefix exists in `/sources/`
+- ⬜ not yet in `/sources/` — show the expected prefix pattern (e.g., `bjork_2011_*.pdf`)
+
+Present the list clearly:
+
+> Before I start verifying, here are the citations I'll be looking for. If you have PDFs for any of the missing ones, drop them into the `/sources/` folder now — I'll wait.
+>
+> ✅ **Already in /sources/:** [Author (Year) — matched filename]
+> ⬜ **Not yet in /sources/:** [Author (Year) — expected: `firstauthor_year_*.pdf`]
+>
+> Just say the word when you're ready to proceed.
+
+Wait for the user to confirm before moving to Step 3. If they say "proceed," "go ahead," or similar without adding files, continue — the Consensus abstract fallback is always available.
 
 ### Step 3: Verify Citations (Full Text First, Then Consensus)
 
