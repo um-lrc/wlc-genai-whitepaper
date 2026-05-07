@@ -2,9 +2,9 @@
 
 Few aspects of generative AI have caused as much anxiety as assessment. When instructors are responsible for assigning grades, certifying progress, and upholding standards, it’s natural to worry about whether student work still reflects student learning. In language courses, those concerns can feel especially sharp, since assessment often relies on visible performances (writing samples, oral tasks, and other products) that AI can now generate with ease.
 
-At the same time, many instructors have already discovered that detection-based approaches offer little relief. AI detection tools are unreliable, uneven across languages, and particularly ill-suited to second-language writing. They risk false positives, especially for multilingual and heritage speakers, and they can create a climate of suspicion that discourages risk-taking. For language learners, who already operate with vulnerability and uncertainty, that chilling effect can undermine participation and growth.
+At the same time, many instructors have already discovered that detection-based approaches offer little relief. AI detection tools are unreliable, uneven across languages, and particularly ill-suited to second-language writing (Yatheendra et al., 2025). They risk false positives, especially for multilingual writers and others whose L2 prose differs from corpus-typical native English, and they can create a climate of suspicion that discourages risk-taking. For language learners, who already operate with vulnerability and uncertainty, that chilling effect can undermine participation and growth (Liu & Jackson, 2008).
 
-A more productive response is to step back and ask what assessment is meant to do in the first place. In language learning, assessment is not just about checking correctness at a single moment. It is about gathering evidence of development over time: increasing flexibility, improved judgment, greater ease in interaction, and a growing ability to make meaning in context. These qualities are often most visible to instructors through patterns of engagement, not through isolated artifacts.
+A more productive response is to step back and ask what assessment is meant to do in the first place. In language learning, assessment is not just about checking correctness at a single moment. It is about gathering evidence of development over time: increasing flexibility, improved judgment, greater ease in interaction, and a growing ability to make meaning in context (Zhang & Yu, 2024). These qualities are often most visible to instructors through patterns of engagement, not through isolated artifacts.
 
 This perspective invites a shift from assessing products alone to paying closer attention to process. In-class writing and speaking, guided drafts, oral explanations of choices, reflection on strategies, and interaction-based activities all make learning more visible without relying on surveillance. These approaches do not eliminate the need for grades or standards, but they help reconnect assessment to the kinds of learning language courses are designed to support.
 
@@ -13,3 +13,13 @@ This shift does not require abandoning institutional expectations or pretending 
 Approaching assessment this way also helps reframe the role of generative AI. Instead of asking whether a particular piece of work was produced with or without AI, instructors can focus on whether the assessment design makes learning visible in the first place. When tasks are closely tied to process, interaction, and reflection, the question of AI use often becomes less central, or at least easier to contextualize.
 
 None of this eliminates uncertainty, nor should it promise foolproof assessments. The point is to avoid panic-driven responses that overpromise control while undercutting trust. By aligning assessment more closely with formation rather than mere output, instructors can respond to generative AI in ways that support learning, protect equity, and preserve the relational core of language education.
+
+---
+
+## Bibliography
+
+Zhang, H., & Yu, L. (2024). Formative assessment in K-12 English as a foreign language education: A systematic review. *Heliyon*, *10*.
+
+Liu, M., & Jackson, J. (2008). An exploration of Chinese EFL learners' unwillingness to communicate and foreign language anxiety. *The Modern Language Journal*, *92*(1), 71–86.
+
+Yatheendra K V, et al. (2025). Cross-linguistic evaluation of AI-generated text detection: A comparative study on English and Indonesian using precision, recall and F1 score. *ShodhKosh: Journal of Visual and Performing Arts*.
