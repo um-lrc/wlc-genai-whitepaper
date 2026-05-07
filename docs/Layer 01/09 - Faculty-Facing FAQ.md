@@ -43,14 +43,3 @@ Students respond best when expectations are framed as learning commitments rathe
 ### **Do I need to have all the answers right now?**
 
 No. This is an evolving landscape. It is reasonable to experiment, reflect, and revise. What matters most is that decisions are made intentionally, communicated clearly, and grounded in care for student learning.
-
----
-### Bibliography
-
-Ardito, C. G. (2025). Generative AI detection in higher education assessments. New Directions for Teaching and Learning, 2025(1), 1-15. https://onlinelibrary.wiley.com/doi/abs/10.1002/tl.20624
-
-Creely, E. (2024). Exploring the role of generative AI in enhancing language learning: Opportunities and challenges. International Journal of Changes in Education, 1(1), 45-58. http://ojs.bonviewpress.com/index.php/IJCE/article/view/2495
-
-Kim, L. S. (2003). Exploring the relationship between language, culture and identity. GEMA Online Journal of Language Studies, 3(2).
-
-Parker, G. (2025). Unforgetting Educational Surveillance: Reimagining AI as a Tool for Justice and Pedagogical Liberation. Big Data Analytics & Applications, 27.
