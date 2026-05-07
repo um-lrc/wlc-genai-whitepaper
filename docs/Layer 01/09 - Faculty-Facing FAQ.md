@@ -43,3 +43,5 @@ Students respond best when expectations are framed as learning commitments rathe
 ### **Do I need to have all the answers right now?**
 
 No. This is an evolving landscape. It is reasonable to experiment, reflect, and revise. What matters most is that decisions are made intentionally, communicated clearly, and grounded in care for student learning.
+
+---
